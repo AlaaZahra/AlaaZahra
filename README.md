@@ -46,7 +46,6 @@ I enjoy building security tools, experimenting with AI/LLMs in cybersecurity, an
 - Threat Intelligence & Malware Analysis
 - Building practical security tools & automation
 
----
 
 ### 💻 Languages and Tools:
 
