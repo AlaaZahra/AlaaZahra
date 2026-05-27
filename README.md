@@ -4,7 +4,14 @@
 [![HuggingFace Badge](https://img.shields.io/badge/-HuggingFace-yellow?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/alaaabdelmaksod)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/AlaaZahra)
 
+<hr>
+<h3 align="left">🛡️ Cybersecurity Mindset</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Threat+Hunter+%7C+SOC+Analyst;Cybersecurity+Researcher;Securing+Systems+One+Packet+at+a+Time;Learning+Never+Stops+in+Cybersecurity" alt="Typing SVG" />
+</p>
+
+<hr>
 I’m a SOC-focused Cybersecurity Researcher and M.Sc. student passionate about threat detection, incident response, network security, and AI-powered cybersecurity solutions.
 
 Currently part of the elite Digilians Initiative under Egypt’s Ministry of Communications and the Egyptian Armed Forces Academy, where I work on hands-on cybersecurity labs, threat intelligence, and defensive security operations.
