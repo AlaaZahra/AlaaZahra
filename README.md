@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm Alaa Zahra!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-zahra-59845b228/?skipRedirect=true)
 [![HuggingFace Badge](https://img.shields.io/badge/-HuggingFace-yellow?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/alaaabdelmaksod)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/AlaaZahra)
 
