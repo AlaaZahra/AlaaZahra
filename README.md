@@ -46,28 +46,36 @@ I enjoy building security tools, experimenting with AI/LLMs in cybersecurity, an
 - Building practical security tools & automation
 
 ---
-
 ### 💻 Languages and Tools:
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="aws"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" alt="terraform"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="linux"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="github"></code>
+<p align="left">
 
----
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" alt="bash"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="linux"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="aws"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" alt="terraform"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="github"></code>
 
-### 🌐 Cybersecurity & Networking Tools:
+</p>
 
-- Wireshark
-- Kali Linux
-- GNS3
-- Packet Tracer
-- VMware
-- Fortinet
-- Huawei HCIA
+### 🛡️ Cybersecurity & Networking Tools:
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+<img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
 
 ---
 
