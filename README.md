@@ -1,44 +1,114 @@
-<p align="center">
-  <img width="100%" alt="Hello, I'm Alaa. I break code to understand it — then build AI to fix it." src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=200&section=header&text=Alaa%20Zahra&fontSize=60&fontColor=0a0f0a&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Researcher%20%7C%20AI%2FML%20Engineer%20%7C%20SOC%20Analyst&descAlignY=55&descColor=0a0f0a" />
+# Hey there 👋, I'm Alaa Zahra!
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-171515?style=flat-square&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
+
+### Glad to see you here! 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_GITHUB_USERNAME" />
 </p>
 
-I'm a cybersecurity researcher and AI/ML engineer from Egypt 🇪🇬 → Canada 🇨🇦
+I am a SOC Analyst & Cybersecurity Enthusiast passionate about Cyber Defense, Threat Detection, Digital Forensics, and Security Operations. 🚀
 
-**About me**
+I enjoy working on cybersecurity projects, analyzing threats, learning new security technologies, and improving my skills in SOC operations, SIEM tools, network security, and incident response.
 
-- 🎓 M.Sc. Cybersecurity — Queen's University, Canada *(Digilians Initiative — Ministry of Communications × Armed Forces Academy)*
-- 🔐 Researching **AI-Based JavaScript De-obfuscation** — LLM fine-tuning + AST static analysis + CoT prompting
-- 🚀 Deployed **7+ AI spaces** on Hugging Face — from IOC Sentinel to Gemini 2 agents
-- ☁️ Built end-to-end AWS ML pipeline — 31.7 GB data, Llama 3.2 fine-tune via QLoRA, **$0.88 total cost**
-- 💬 Ask me about anything [here](https://github.com/AlaaZahra/AlaaZahra/issues)
+I'm continuously exploring the world of Cybersecurity, AI Security, Threat Intelligence, and Cloud Security while building practical projects and solving real-world security challenges.
 
-**Tools & Stack**
+Feel free to connect with me for anything related to Cybersecurity, SOC, or Tech! 🌟
 
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" alt="aws" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
-<code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<hr>
 
-| <a href="https://github.com/AlaaZahra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlaaZahra&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="Alaa's github stats" /></a> | <a href="https://github.com/AlaaZahra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaZahra&layout=compact&theme=chartreuse-dark&hide_border=true" /></a> |
-| ------------- | ------------- |
+<h3 align="left">✨ Random Dev Quote:</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
 
-#### Top Repositories
+<hr>
 
-<a href="https://github.com/AlaaZahra/cloud-project-main">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlaaZahra&repo=cloud-project-main&theme=chartreuse-dark" />
-</a>
-<a href="https://github.com/AlaaZahra/ioc-sentinel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlaaZahra&repo=ioc-sentinel&theme=chartreuse-dark" />
-</a>
+<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
-<br />
-<br />
+### Talking about Personal Stuff:
 
-<a href="https://www.linkedin.com/in/alaa-zahra-59845b228/">
-  <img align="right" alt="Alaa Zahra | LinkedIn" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-</a>
-<a href="https://huggingface.co/alaaabdelmaksod">
-  <img align="right" alt="Alaa Zahra | HuggingFace" width="21px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
-</a>
+- 🛡️ &nbsp; I’m currently working on Cybersecurity & SOC projects.
+- 🚀 &nbsp; I’m currently exploring Threat Hunting, SIEM, AI Security & Cloud Security.
+- 💬 &nbsp; Ask me anything about Cybersecurity, SOC, Networking, or Python.
+- 👾 &nbsp; Fun fact: Cybersecurity is a mindset before being a skill.
+- 📫 &nbsp; Reach me out: YOUR_EMAIL@gmail.com
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; Learning new cybersecurity technologies and security tools.
+- 🔍 &nbsp; Threat Hunting & Security Analysis.
+- 📚 &nbsp; Watching cybersecurity content and reading security research.
+- 🚩 &nbsp; CTFs, Labs & Security Challenges.
+
+### Languages and Tools:
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="linux"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="github"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" alt="bash"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="mysql"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker"></code>
+
+### Cybersecurity Tools:
+
+- Wireshark
+- Splunk
+- ELK Stack
+- Nmap
+- Burp Suite
+- Metasploit
+- Kali Linux
+- Microsoft Defender
+- VirusTotal
+
+### Certifications & Learning:
+
+- HCIA - Huawei Certified ICT Associate
+- Fortinet NSE
+- SOC Analyst Learning Path
+- Cybersecurity & Networking Labs
+
+### Projects and Dev Stuffs:
+
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+</details>
+
+<details>
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+
+  <br />
+
+  <ul>
+      <li><b>OS:</b> Windows & Kali Linux</li>
+      <li><b>Code Editor:</b> VS Code</li>
+      <li><b>Browser:</b> Chrome & Firefox</li>
+      <li><b>Terminal:</b> PowerShell & Bash</li>
+      <li><b>Other Tools:</b> Postman, Git, Docker</li>
+      <li><b>To Stay Updated:</b> YouTube, LinkedIn, Cybersecurity Blogs</li>
+  </ul>
+
+</details>
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
