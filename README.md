@@ -15,7 +15,7 @@ I enjoy building security tools, experimenting with AI/LLMs in cybersecurity, an
 
 <hr>
 
-<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
+<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
 ### Talking about Personal Stuff:
 
