@@ -1,7 +1,7 @@
 # Hey there 👋, I'm Alaa Zahra!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-171515?style=flat-square&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-zahra-59845b228/?skipRedirect=true)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/AlaaZahra)
 
 ### Glad to see you here! 
 <p align="left">
@@ -79,7 +79,7 @@ Feel free to connect with me for anything related to Cybersecurity, SOC, or Tech
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaabdelmaksodzahra@gmail.com&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>
