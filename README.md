@@ -5,7 +5,7 @@
 
 ### Glad to see you here! 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_GITHUB_USERNAME" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="AlaaZahra" />
 </p>
 
 I am a SOC Analyst & Cybersecurity Enthusiast passionate about Cyber Defense, Threat Detection, Digital Forensics, and Security Operations. 🚀
@@ -77,7 +77,7 @@ Feel free to connect with me for anything related to Cybersecurity, SOC, or Tech
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlaaZahra&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaabdelmaksodzahra@gmail.com&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
@@ -86,7 +86,7 @@ Feel free to connect with me for anything related to Cybersecurity, SOC, or Tech
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlaaZahra&hide_border=true" />
 </details>
 
 <details>
