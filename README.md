@@ -1,85 +1,80 @@
-# Hey there 👋, I'm Alaa Zahra!
+## Hey there 👋, I'm Alaa Zahra!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-zahra-59845b228/?skipRedirect=true)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/AlaaZahra)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![HuggingFace Badge](https://img.shields.io/badge/-HuggingFace-yellow?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/alaaabdelmaksod)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/AlaaZahra)
 
 ### Glad to see you here! 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AlaaZahra&label=Profile%20views&color=0e75b6&style=flat" alt="AlaaZahra" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=AlaaZahra&label=Profile%20views&color=0e75b6&style=flat" alt="AlaaZahra" /> 
 </p>
 
-I am a SOC Analyst & Cybersecurity Enthusiast passionate about Cyber Defense, Threat Detection, Digital Forensics, and Security Operations. 🚀
+I’m a SOC-focused Cybersecurity Researcher and M.Sc. student passionate about threat detection, incident response, network security, and AI-powered cybersecurity solutions.
 
-I enjoy working on cybersecurity projects, analyzing threats, learning new security technologies, and improving my skills in SOC operations, SIEM tools, network security, and incident response.
+Currently part of the elite Digilians Initiative under Egypt’s Ministry of Communications and the Egyptian Armed Forces Academy, where I work on hands-on cybersecurity labs, threat intelligence, and defensive security operations.
 
-I'm continuously exploring the world of Cybersecurity, AI Security, Threat Intelligence, and Cloud Security while building practical projects and solving real-world security challenges.
+I enjoy building security tools, experimenting with AI/LLMs in cybersecurity, and working on cloud-native security projects using AWS, Terraform, Docker, and modern SOC workflows.
 
-Feel free to connect with me for anything related to Cybersecurity, SOC, or Tech! 🌟
+💡 Always learning, building, and exploring new technologies in Cybersecurity, AI, Cloud, and Threat Intelligence.
 
 <hr>
 
-<h3 align="left">✨ Random Dev Quote:</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-
-<hr>
-
-<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### Talking about Personal Stuff:
 
-- 🛡️ &nbsp; I’m currently working on Cybersecurity & SOC projects.
-- 🚀 &nbsp; I’m currently exploring Threat Hunting, SIEM, AI Security & Cloud Security.
-- 💬 &nbsp; Ask me anything about Cybersecurity, SOC, Networking, or Python.
-- 👾 &nbsp; Fun fact: Cybersecurity is a mindset before being a skill.
-- 📫 &nbsp; Reach me out: alaaabdelmaksodzahra@gmail.com
+- 🛡️ &nbsp; I’m currently working on SOC, Threat Intelligence & Security Projects.
+- ☁️ &nbsp; Exploring Cloud Security, DevSecOps, and AI Security applications.
+- 🤖 &nbsp; Building AI-powered cybersecurity tools using LLMs and Hugging Face.
+- 🌱 &nbsp; Currently learning advanced defensive security operations.
+- 💬 &nbsp; Ask me about Cybersecurity, SOC, Threat Hunting, AI, or Cloud.
+- 📫 &nbsp; Reach me at: alaabdelmaksodzahra@gmail.com
 
-### My Absolute Favorites:
+### My Interests:
 
-- 💻 &nbsp; Learning new cybersecurity technologies and security tools.
-- 🔍 &nbsp; Threat Hunting & Security Analysis.
-- 📚 &nbsp; Watching cybersecurity content and reading security research.
-- 🚩 &nbsp; CTFs, Labs & Security Challenges.
+- 🔐 &nbsp; SOC Operations & Threat Hunting
+- ☁️ &nbsp; Cloud Security & DevSecOps
+- 🤖 &nbsp; AI Security & LLM Applications
+- 🧠 &nbsp; Threat Intelligence & Malware Analysis
+- 🚀 &nbsp; Building practical security tools & automation
 
 ### Languages and Tools:
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="linux"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="github"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" alt="bash"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="mysql"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="aws"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" alt="terraform"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="linux"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="github"></code>
 
-### Cybersecurity Tools:
+### Cybersecurity & Networking Tools:
 
 - Wireshark
-- Splunk
-- ELK Stack
-- Nmap
-- Burp Suite
-- Metasploit
 - Kali Linux
-- Microsoft Defender
-- VirusTotal
+- GNS3
+- Packet Tracer
+- VMware
+- Fortinet
+- Huawei HCIA
 
-### Certifications & Learning:
+### Featured Projects:
 
-- HCIA - Huawei Certified ICT Associate
-- Fortinet NSE
-- SOC Analyst Learning Path
-- Cybersecurity & Networking Labs
+- 🔍 IOC Sentinel — Threat Intelligence Monitoring Tool
+- ☁️ Stack Overflow Chat Assistant — Cloud ML Pipeline on AWS
+- 🛡️ Cloud Security CI/CD Lab — DevSecOps Pipeline
+- 🤖 Security AI Tools — AI-Powered SOC Utilities
+- 💬 ChatGPT Clone — Hugging Face AI Assistant
 
-### Projects and Dev Stuffs:
+### Projects and GitHub Stats:
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlaaZahra&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaabdelmaksodzahra@gmail.com&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaZahra&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>
@@ -89,26 +84,10 @@ Feel free to connect with me for anything related to Cybersecurity, SOC, or Tech
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlaaZahra&hide_border=true" />
 </details>
 
-<details>
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-
-  <br />
-
-  <ul>
-      <li><b>OS:</b> Windows & Kali Linux</li>
-      <li><b>Code Editor:</b> VS Code</li>
-      <li><b>Browser:</b> Chrome & Firefox</li>
-      <li><b>Terminal:</b> PowerShell & Bash</li>
-      <li><b>Other Tools:</b> Postman, Git, Docker</li>
-      <li><b>To Stay Updated:</b> YouTube, LinkedIn, Cybersecurity Blogs</li>
-  </ul>
-
-</details>
-
 #
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### ⭐ Always building, learning, and securing the digital world.
 
 </div>
