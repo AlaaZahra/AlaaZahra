@@ -23,7 +23,7 @@ I enjoy building security tools, experimenting with AI/LLMs in cybersecurity, an
 <p align="center">
   <i>"Security is not a product, but a process."</i>
   <br><br>
-  — Bruce Schneier
+  - Bruce Schneier
 </p>
 
 ---
