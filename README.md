@@ -5,7 +5,7 @@
 
 ### Glad to see you here! 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="AlaaZahra" />
+  <img src="https://komarev.com/ghpvc/?username=AlaaZahra&label=Profile%20views&color=0e75b6&style=flat" alt="AlaaZahra" />
 </p>
 
 I am a SOC Analyst & Cybersecurity Enthusiast passionate about Cyber Defense, Threat Detection, Digital Forensics, and Security Operations. 🚀
@@ -33,7 +33,7 @@ Feel free to connect with me for anything related to Cybersecurity, SOC, or Tech
 - 🚀 &nbsp; I’m currently exploring Threat Hunting, SIEM, AI Security & Cloud Security.
 - 💬 &nbsp; Ask me anything about Cybersecurity, SOC, Networking, or Python.
 - 👾 &nbsp; Fun fact: Cybersecurity is a mindset before being a skill.
-- 📫 &nbsp; Reach me out: YOUR_EMAIL@gmail.com
+- 📫 &nbsp; Reach me out: alaaabdelmaksodzahra@gmail.com
 
 ### My Absolute Favorites:
 
