@@ -4,10 +4,6 @@
 [![HuggingFace Badge](https://img.shields.io/badge/-HuggingFace-yellow?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/alaaabdelmaksod)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/AlaaZahra)
 
-### Glad to see you here! 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=AlaaZahra&label=Profile%20views&color=0e75b6&style=flat" alt="AlaaZahra" /> 
-</p>
 
 I’m a SOC-focused Cybersecurity Researcher and M.Sc. student passionate about threat detection, incident response, network security, and AI-powered cybersecurity solutions.
 
