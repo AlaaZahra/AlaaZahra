@@ -4,6 +4,10 @@
 [![HuggingFace Badge](https://img.shields.io/badge/-HuggingFace-yellow?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/alaaabdelmaksod)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/AlaaZahra)
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AlaaZahra&label=Profile%20Views&color=0e75b6&style=flat" alt="AlaaZahra" />
+</p>
+
 I’m a SOC-focused Cybersecurity Researcher and M.Sc. student passionate about threat detection, incident response, network security, and AI-powered cybersecurity solutions.
 
 Currently part of the elite Digilians Initiative under Egypt’s Ministry of Communications and the Egyptian Armed Forces Academy, where I work on hands-on cybersecurity labs, threat intelligence, and defensive security operations.
@@ -24,7 +28,7 @@ I enjoy building security tools, experimenting with AI/LLMs in cybersecurity, an
 
 ---
 
-<img align="right" height="250" width="375" alt="Cybersecurity GIF" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" />
+<img align="right" height="220" width="340" alt="Cybersecurity GIF" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" />
 
 ### 🛡️ Talking about Personal Stuff:
 
@@ -46,6 +50,7 @@ I enjoy building security tools, experimenting with AI/LLMs in cybersecurity, an
 - Building practical security tools & automation
 
 ---
+
 ### 💻 Languages and Tools:
 
 <p align="left">
