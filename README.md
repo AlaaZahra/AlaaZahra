@@ -2,6 +2,10 @@
 
 ### Junior SOC Analyst | Security Operations | Cybersecurity & Machine Learning
 
+<img align="right" width="290" alt="Cybersecurity" src="https://github.com/user-attachments/assets/9df1f258-eec6-42b9-9703-10261e7609a9" />
+
+> Behind every alert is a story. I follow the evidence to understand it.
+
 I hold a **Master of Science in Computing from Queen’s University, Canada**, completed through the **Digilians initiative**, and a bachelor’s degree in Computer Science from Benha University.
 
 My practical experience includes **SIEM monitoring, alert triage, log analysis, network traffic investigation, API security testing, and machine learning for threat detection**.
@@ -9,6 +13,8 @@ My practical experience includes **SIEM monitoring, alert triage, log analysis, 
 I am seeking **Junior SOC Analyst and entry-level Security Operations opportunities**.
 
 [LinkedIn](https://www.linkedin.com/in/alaa-zahra-59845b228/) · [Hugging Face](https://huggingface.co/alaaabdelmaksod)
+
+<br clear="right" />
 
 ---
 
@@ -28,31 +34,44 @@ Collaborated on an **Open-Set Hierarchical Web-Attack Classifier** at Queen’s 
 
 - Developed the **Stage 3 open-set gate**, combining Isolation Forest with classifier uncertainty.
 - Contributed to shared traffic collection and dataset preparation.
-- Co-authored the report and contributed to the presentation.
+- Co-authored the final report and contributed to the presentation.
 
 ## 💼 Practical Experience
 
-**SOC Analyst Intern — ACUD | October 2026**
+### SOC Analyst Intern — ACUD
+**October 2026 | Internship through Digilians**
 
-One-month internship through Digilians, involving API security testing and a team SOC research project.
+- Participated in API security testing while maintaining project confidentiality.
+- Contributed to a team SOC research prototype.
+- Worked on dataset preparation and baseline machine learning comparisons.
 
-**Digilians | September 2025–October 2026**
+### Cybersecurity Program Participant — Digilians
+**September 2025–October 2026**
 
-Postgraduate studies, cybersecurity training, hands-on labs, and team projects covering cybersecurity, cloud computing, and AI.
+Completed postgraduate studies, cybersecurity training, hands-on labs, and team projects covering cybersecurity, cloud computing, and artificial intelligence.
 
 ## 🧰 Tools & Skills
 
-- **SOC:** Splunk, Elastic Stack, Suricata, Wazuh
-- **Investigation:** Wireshark, TheHive, MISP, Cortex
-- **Networking:** FortiGate, TCP/IP, routing, switching, GNS3
-- **Systems:** Linux, Windows, VMware
-- **Programming & ML:** Python, SQL, pandas, scikit-learn
-- **Cloud:** AWS, Terraform, Docker, PySpark
+| Area | Tools and skills |
+| --- | --- |
+| Security Operations | SIEM monitoring, alert triage, log analysis, incident investigation |
+| SIEM & Detection | Splunk, Elastic Stack, Suricata, Wazuh |
+| Investigation | Wireshark, TheHive, MISP, Cortex, IOC analysis |
+| Networking | FortiGate, TCP/IP, routing, switching, GNS3 |
+| Systems | Linux, Windows, VMware |
+| Programming & ML | Python, SQL, pandas, scikit-learn, classification, anomaly detection |
+| Cloud | AWS, Terraform, Docker, PySpark |
 
 ## 📜 Certifications & Completed Courses
 
 - **Fortinet NSE 4 Certified in FortiOS**
 - **Huawei HCIA-Datacom**
 - **Google Cybersecurity Professional Certificate**
-- EC-Council courses: Network Defense Essentials, Digital Forensics Essentials, and Ethical Hacking Essentials
-- Supervised Machine Learning: Regression and Classification — DeepLearning.AI and Stanford Online
+- **Network Defense Essentials (NDE)** — EC-Council course
+- **Digital Forensics Essentials (DFE)** — EC-Council course
+- **Ethical Hacking Essentials (EHE)** — EC-Council course
+- **Supervised Machine Learning: Regression and Classification** — DeepLearning.AI and Stanford Online
+
+---
+
+### 🔎 Follow the evidence. Understand the threat. Keep learning.
